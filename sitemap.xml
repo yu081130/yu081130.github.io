@@ -3,266 +3,298 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/home/hero/</loc>
+    <loc>http://example.org/home/hero/</loc>
     <lastmod>2017-10-15T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/home/about/</loc>
+    <loc>http://example.org/home/about/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/home/publications_selected/</loc>
+    <loc>http://example.org/home/publications_selected/</loc>
     <lastmod>2016-04-20T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/2014/09/28/creating-a-new-theme/</loc>
+    <loc>http://example.org/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2014/09/26/awesomeness/</loc>
+    <loc>http://example.org/post/01/</loc>
     <lastmod>2014-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2014/09/25/wonderful/</loc>
+    <loc>http://example.org/post/02/</loc>
     <lastmod>2014-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/home/publications/</loc>
+    <loc>http://example.org/home/publications/</loc>
     <lastmod>2016-04-20T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/home/talks/</loc>
+    <loc>http://example.org/home/talks/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/home/posts/</loc>
+    <loc>http://example.org/home/posts/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/home/projects/</loc>
+    <loc>http://example.org/home/projects/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/home/teaching/</loc>
+    <loc>http://example.org/home/teaching/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/home/tags/</loc>
+    <loc>http://example.org/home/tags/</loc>
     <lastmod>2017-09-20T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/home/contact/</loc>
+    <loc>http://example.org/home/contact/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/11/29/example-post/</loc>
+    <loc>http://example.org/post/example-post/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
+    <loc>http://example.org/blogs/aliquam/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blogs/</loc>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blogs/tempus/</loc>
+    <lastmod>2017-10-31T22:26:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blogs/magna/</loc>
+    <lastmod>2017-10-31T22:26:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blogs/ipsum/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/academic/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>http://example.org/publication/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>http://example.org/talk/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example-talk/</loc>
+    <loc>http://example.org/talk/example-talk/</loc>
     <lastmod>2017-01-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>http://example.org/post/</loc>
     <lastmod>2017-01-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/deep-learning/</loc>
+    <loc>http://example.org/project/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/example-external-project/</loc>
+    <loc>http://example.org/project/example-external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/04/10/frequently-asked-questions-faq/</loc>
+    <loc>http://example.org/post/faq/</loc>
     <lastmod>2016-04-10T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/person-re-identification/</loc>
+    <loc>http://example.org/publication/person-re-identification/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://example.org/about/</loc>
     <lastmod>2015-04-14T22:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2014/04/02/hugo-template-primer/</loc>
+    <loc>http://example.org/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2013/09/28/colenak/</loc>
+    <loc>http://example.org/post/03/</loc>
     <lastmod>2013-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/clothing-search/</loc>
+    <loc>http://example.org/publication/clothing-search/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/login/</loc>
-  </url>
-  
-  <url>
-    <loc>/profile/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://example.org/login/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/profile/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
     <lastmod>2017-10-15T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>http://example.org/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
+    <loc>http://example.org/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/development/</loc>
+    <loc>http://example.org/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/development/</loc>
+    <loc>http://example.org/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/example/</loc>
+    <loc>http://example.org/tags/example/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/food/</loc>
+    <loc>http://example.org/categories/food/</loc>
     <lastmod>2013-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/go/</loc>
+    <loc>http://example.org/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>http://example.org/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/golang/</loc>
+    <loc>http://example.org/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/home/</loc>
+    <loc>http://example.org/home/</loc>
     <lastmod>2017-10-15T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>http://example.org/tags/hugo/</loc>
     <lastmod>2016-04-10T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/hugo/</loc>
+    <loc>http://example.org/categories/hugo/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>http://example.org/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>http://example.org/categories/r/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://example.org/tags/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/templates/</loc>
+    <loc>http://example.org/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/themes/</loc>
+    <loc>http://example.org/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/landing/</loc>
+    <loc>http://example.org/landing/</loc>
   </url>
   
   <url>
-    <loc>/template/</loc>
+    <loc>http://example.org/template/</loc>
   </url>
   
 </urlset>

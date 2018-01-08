@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on 神经病的日常生活</title>
-    <link>/tags/hugo/</link>
-    <description>Recent content in Hugo on 神经病的日常生活</description>
+    <title>Hugo on Forty</title>
+    <link>http://example.org/tags/hugo/</link>
+    <description>Recent content in Hugo on Forty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Apr 2016 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Frequently Asked Questions (FAQ)</title>
-      <link>/2016/04/10/frequently-asked-questions-faq/</link>
+      <link>http://example.org/post/faq/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>/2016/04/10/frequently-asked-questions-faq/</guid>
+      <guid>http://example.org/post/faq/</guid>
       <description>Common questions and answers will be listed here.
 I cloned/downloaded Academic but Hugo produces errors when using it with my existing Hugo site
 Academic is a website framework rather than just a theme. Therefore, you must follow the full installation guide found on the Demo/Documentation website or in the Github Readme. If you still have problems, first try running Hugo on the Academic Example Site found in the themes/academic/exampleSite folder and then compare the configuration parameters in the Example Site&amp;rsquo;s config.</description>
