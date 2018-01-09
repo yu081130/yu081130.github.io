@@ -2,116 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Components on Forty</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content in Components on Forty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Academic</title>
-      <link>http://example.org/home/hero/</link>
+      <link>/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
       
-      <guid>http://example.org/home/hero/</guid>
+      <guid>/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes :rocket: Latest release  
 (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>http://example.org/home/publications_selected/</link>
+      <link>/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://example.org/home/publications_selected/</guid>
+      <guid>/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>http://example.org/post/creating-a-new-theme/</link>
+      <link>/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/creating-a-new-theme/</guid>
+      <guid>/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Awesomeness</title>
-      <link>http://example.org/post/01/</link>
+      <link>/post/01/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/01/</guid>
+      <guid>/post/01/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Wonderful</title>
-      <link>http://example.org/post/02/</link>
+      <link>/post/02/</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/02/</guid>
+      <guid>/post/02/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>http://example.org/home/publications/</link>
+      <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://example.org/home/publications/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://example.org/home/talks/</link>
+      <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/home/talks/</guid>
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>http://example.org/home/posts/</link>
+      <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://example.org/home/projects/</link>
+      <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/home/projects/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://example.org/home/teaching/</link>
+      <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/home/teaching/</guid>
+      <guid>/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 I am a teaching instructor for the following courses at University X:
  CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
@@ -119,100 +119,100 @@ I am a teaching instructor for the following courses at University X:
     
     <item>
       <title>Tags</title>
-      <link>http://example.org/home/tags/</link>
+      <link>/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
-      <guid>http://example.org/home/tags/</guid>
+      <guid>/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://example.org/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>example post</title>
-      <link>http://example.org/post/example-post/</link>
+      <link>/post/example-post/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/example-post/</guid>
+      <guid>/post/example-post/</guid>
       <description>Awesome blog post</description>
     </item>
     
     <item>
       <title>Aliquam</title>
-      <link>http://example.org/blogs/aliquam/</link>
+      <link>/blogs/aliquam/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>http://example.org/blogs/aliquam/</guid>
+      <guid>/blogs/aliquam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tempus</title>
-      <link>http://example.org/blogs/tempus/</link>
+      <link>/blogs/tempus/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
-      <guid>http://example.org/blogs/tempus/</guid>
+      <guid>/blogs/tempus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magna</title>
-      <link>http://example.org/blogs/magna/</link>
+      <link>/blogs/magna/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
-      <guid>http://example.org/blogs/magna/</guid>
+      <guid>/blogs/magna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ipsum</title>
-      <link>http://example.org/blogs/ipsum/</link>
+      <link>/blogs/ipsum/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>http://example.org/blogs/ipsum/</guid>
+      <guid>/blogs/ipsum/</guid>
       <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>http://example.org/talk/example-talk/</link>
+      <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
-      <guid>http://example.org/talk/example-talk/</guid>
+      <guid>/talk/example-talk/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>http://example.org/project/deep-learning/</link>
+      <link>/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project/deep-learning/</guid>
+      <guid>/project/deep-learning/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>http://example.org/project/example-external-project/</link>
+      <link>/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project/example-external-project/</guid>
+      <guid>/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frequently Asked Questions (FAQ)</title>
-      <link>http://example.org/post/faq/</link>
+      <link>/post/faq/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://example.org/post/faq/</guid>
+      <guid>/post/faq/</guid>
       <description>Common questions and answers will be listed here.
 I cloned/downloaded Academic but Hugo produces errors when using it with my existing Hugo site
 Academic is a website framework rather than just a theme. Therefore, you must follow the full installation guide found on the Demo/Documentation website or in the Github Readme. If you still have problems, first try running Hugo on the Academic Example Site found in the themes/academic/exampleSite folder and then compare the configuration parameters in the Example Site&amp;rsquo;s config.</description>
@@ -220,84 +220,84 @@ Academic is a website framework rather than just a theme. Therefore, you must fo
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>http://example.org/publication/person-re-identification/</link>
+      <link>/publication/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/publication/person-re-identification/</guid>
+      <guid>/publication/person-re-identification/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>http://example.org/about/</link>
+      <link>/about/</link>
       <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>/about/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>http://example.org/post/goisforlovers/</link>
+      <link>/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/goisforlovers/</guid>
+      <guid>/post/goisforlovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Colenak</title>
-      <link>http://example.org/post/03/</link>
+      <link>/post/03/</link>
       <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/03/</guid>
+      <guid>/post/03/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>http://example.org/publication/clothing-search/</link>
+      <link>/publication/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/publication/clothing-search/</guid>
+      <guid>/publication/clothing-search/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/login/</link>
+      <link>/login/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/login/</guid>
+      <guid>/login/</guid>
       <description>Get StartedCreate AccountNeed Help?</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/profile/</link>
+      <link>/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/profile/</guid>
+      <guid>/profile/</guid>
       <description>FollowAbout meAn artist of considerable range, Ryan — the name taken by Melbourne-raised, Brooklyn-based Nick Murphy — writes, performs and records all of his own music, giving it a warm, intimate feel with a solid groove structure. An artist of considerable range.My Portfolio </description>
     </item>
     
     <item>
       <title>Write the best title for your page.</title>
-      <link>http://example.org/landing/</link>
+      <link>/landing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/landing/</guid>
+      <guid>/landing/</guid>
       <description>Who are we?According to the National Oceanic and Atmospheric Administration, Ted, Scambos, NSIDC lead scentist, puts the potentially record low maximum sea ice extent tihs year down to low ice extent in the Pacific and a late drop in ice extent in the Barents Sea.&#34;Over the span of the satellite record, Arctic sea ice has been declining significantly, while sea ice in the Antarctichas increased very slightly&#34;</description>
     </item>
     
     <item>
       <title>Write the best title for your page.</title>
-      <link>http://example.org/template/</link>
+      <link>/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/template/</guid>
+      <guid>/template/</guid>
       <description>Here comes the body of the page&amp;hellip;
 ## Look, a code block! library(tidyverse) 1 + 1  </description>
     </item>
