@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lifestyle on Forty</title>
+    <title>广告展示 on Forty</title>
     <link>/blogs/</link>
-    <description>Recent content in Lifestyle on Forty</description>
+    <description>Recent content in 广告展示 on Forty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Tempus</title>
+      <title>网易云音乐</title>
       <link>/blogs/tempus/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Magna</title>
+      <title>ARMANI</title>
       <link>/blogs/magna/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>Ipsum</title>
+      <title>YSL</title>
       <link>/blogs/ipsum/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
